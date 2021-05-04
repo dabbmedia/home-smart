@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ba",
+				"backend"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"act",
+				"actionCreate"
+			],
+			[
+				"validation",
+				"Validation"
+			],
+			[
+				"detectFaces",
+				"DetectFaces"
+			],
+			[
+				"det",
+				"detectFaces"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Im",
+				"ImageController"
+			],
+			[
+				"mysql",
+				"mysql_secure_installation"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"x",
+				"xOffset"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"te",
+				"tearDown"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"Ch",
+				"CharField"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brent/Sites/home_smart/smart_app/backend/home_smart",
+		"/Users/brent/Sites/home_smart/smart_app/backend/home_smart/home_smart"
+	],
+	"file_history":
+	[
+		"/Users/brent/Sites/home_smart/smart_app/backend/home_smart/home_smart/device.py",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/styles/scss/_layout.scss",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/resolver.js",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/router.js",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/app.js",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/styles/scss/pages/_conversation.scss",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/controllers/signup.js",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/mixins/reset-scroll.js",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/styles/scss/_mixins.scss",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/styles/app.scss",
+		"/Users/brent/Sites/ehat/apps/cross-platform/ember-app/app/routes/index.js",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/controllers/ImageController.php",
+		"/Users/brent/Sites/ehat/data/wikipedia/get_people_with_images.sh",
+		"/Users/brent/Notes_bu.txt",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/database/sql/api/table_image_wikimedia_create.sql",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/frontend/controllers/SiteController.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/models/LoginForm.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/models/User.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/controllers/UserController.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/controllers/SiteController.php",
+		"/Users/brent/Sites/ehat/images/src/img/icons/earth.svg",
+		"/Users/brent/Sites/ehat/images/src/img/icons/house.svg",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/database/sql/api/ehat_api_2017-08-25.sql",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/Vagrantfile",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/Vagrantfile",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/provision/centos_api.sh",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/database/sql/api/table_person_wikimedia_create.sql",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vagrant/provision/once-as-root.sh",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/deploy/deploy.txt",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/deploy/deploy.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/controllers/ImageController.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/models/ImageUpload.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/models/Image.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/views/image/_form.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/views/image/create.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/provision/centos_admin.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/models/User.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/config/params.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/views/layouts/main.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/config/main.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/composer.json",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/provision/centos_www.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/provision/default.conf",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/web/index.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vendor/autoload.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vendor/composer/autoload_real.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/environments/prod/backend/config/main-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/environments/prod/backend/config/params-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/environments/dev/backend/web/index.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/environments/dev/backend/config/params-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/environments/dev/backend/config/main-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/codeception.yml",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/fixtures/UserFixture.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/test.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/test-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/params.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/params-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/main.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/bootstrap.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/common/config/main-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/init",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/codeception.yml",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/views/image/index.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/SignupForm.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/controllers/SiteController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/config/main-local.php",
+		"/Users/brent/Sites/ehat/notes.txt",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/common/models/User.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/ImageUpload.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/Vagrantfile",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/provision/once-as-root.sh",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/frontend/views/layouts/main.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/views/layouts/main.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/views/layouts/main.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/database/sql/api/db_api_create.sql",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/controllers/UserController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/provision/live/admin/centos_admin.sh",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vagrant/nginx/app.conf",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/php-fpm/www.conf",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/provision/www.conf",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/nginx/app.conf",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/Image.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/views/user/index.php",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/vagrant/nginx/app.conf",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vagrant/nginx/log/frontend-error.log",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/vagrant/config/vagrant-local.yml",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/vagrant/provision/once-as-vagrant.sh",
+		"/Users/brent/Sites/ehat/apps/web/www/yii-application/vagrant/provision/once-as-root.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/backend/config/main-local.php",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/config/vagrant-local.yml",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/provision/once-as-vagrant.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/provision/always-as-root.sh",
+		"/Users/brent/Sites/ehat/apps/web/admin/yii-application/vagrant/config/vagrant-local.example.yml",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/config/params.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/controllers/SiteController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/common/models/LoginForm.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/provision/live/centos.sh",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/controllers/AddressController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vagrant/php-fpm/www.conf",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/database/sql/api/db_api_structure.sql",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/config/main.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/common/config/params.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/composer.json",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/config/main.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/models/User.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/User.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/Message.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/Address.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vendor/aws/aws-sdk-php/composer.json",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/UserQuery.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/UserQuery_bu.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/User_bu.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/controllers/MessageController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/MessageQuery.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/ContactForm.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/models/AddressQuery.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/views/user/index.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/models/Message.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/views/site/index.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/models/UserQuery.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/models/UserSearch.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/frontend/views/site/index.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/controllers/UserController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/controllers/MessageController.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/backend/assets/AppAsset.php",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/.gitignore",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vendor/ehat/database/sql/api/table_address_create.sql",
+		"/Users/brent/Sites/ehat/apps/web/api/yii-application/vendor/ehat/database/sql/api/table_user_create.sql"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home_smart.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

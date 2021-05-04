@@ -1,0 +1,9 @@
+[submodule "c"]
+	path = c
+	url = ./c
+[submodule "home_smart"]
+	path = home_smart
+	url = ./cpp/home_smart
+[submodule "flask"]
+	path = flask
+	url = ./flask
